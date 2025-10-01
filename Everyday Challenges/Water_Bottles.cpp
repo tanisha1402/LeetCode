@@ -17,3 +17,8 @@ public:
         return drinkedBottles;
     }
 };
+
+/*
+T.C : O(log(numBottles)) / O(lognumExchange​(numBottles)​(numBottles))
+S.C : O(1)
+*/
